@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.log
+chromedriver.log
+*.png
+*.jpg
+reports/
+report.html
+.env
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
